@@ -13,4 +13,4 @@ int main()
 	cin >> o >> w;
 	bool isPlay = true;
 	while(isPlay)
-}
+}//https://www.acmicpc.net/problem/1362
